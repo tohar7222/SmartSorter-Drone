@@ -1,0 +1,10 @@
+# נתיב לתיקיית הדאטה-סט של הצעצועים
+path: C:/טוהר בלולו/פרויקטם/drone_project/toys_dataset_v2
+
+# נתיבים יחסיים לתוך התיקייה
+train: train/images
+val: val/images
+
+# הגדרת המחלקות
+nc: 1
+names: ['toy']

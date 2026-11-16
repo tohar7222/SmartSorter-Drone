@@ -1,0 +1,29 @@
+# Python / Computer Vision
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+*.pt
+*.onnx
+
+# Project Datasets & Heavy Runs
+runs/
+SCAN_TEST/
+test_images1/
+test_results1/
+toys_dataset/
+toys_dataset_v2/
+my_final_dataset/
+דטה של מישחקים/
+ששששש/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
+
+# OS / Editors
+.DS_Store
+.vscode/

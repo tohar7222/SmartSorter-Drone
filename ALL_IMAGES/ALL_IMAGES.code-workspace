@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ALL_LABELS"
+		},
+		{
+			"path": "../BAD_IMAGES"
+		},
+		{
+			"path": "../my_final_dataset"
+		},
+		{
+			"path": "../runs"
+		},
+		{
+			"path": "../SCAN_TEST"
+		},
+		{
+			"path": "../test_images1"
+		},
+		{
+			"path": "../test_results1"
+		},
+		{
+			"path": "../toys_dataset"
+		},
+		{
+			"path": "../toys_dataset_v2"
+		},
+		{
+			"path": "../דטה של מישחקים"
+		},
+		{
+			"path": "../ששששש"
+		}
+	]
+}
